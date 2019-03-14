@@ -1,1 +1,1 @@
-# 验证码发送服务SNS[send notification service] #
+# 验证码发送服务[send verification code service] #
